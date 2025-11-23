@@ -15,4 +15,5 @@ Required Libraries:
 Language: R
 
 Data: The dataset was acquired from the NYPD Vehicle Stop Reports published on NYC Open Data.
+
 Link: https://data.cityofnewyork.us/Public-Safety/NYPD-Vehicle-Stop-Reports/hn9i-dwpr/about_data 
